@@ -51,7 +51,7 @@ nodemon index.js
 Contributions to the Algo_Visualizer project are welcome! If you find any issues or have suggestions for improvements, feel free to open a pull request or submit an issue on the GitHub repository.
 
 ## Contact 
-Github Url : https://github.com/ShivamShah12
+Github Url : https://github.com/Shivam-shah12
 
 linkdin url:www.linkedin.com/in/shivam-shah-562a23230
 
